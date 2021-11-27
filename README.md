@@ -70,7 +70,7 @@ Create a `IdCard` component with 6 props:
 
 **Output**
 
-![image](https://user-images.githubusercontent.com/5306791/52976030-22b0d200-33c8-11e9-91fe-e3ce0fa14078.png)
+![image](np)
 
 ### Iteration 2 | Component: `Greetings`
 
